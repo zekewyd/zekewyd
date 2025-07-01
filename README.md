@@ -17,7 +17,7 @@
   </a>
     </td>
   <td valign="top" style="padding: 0 10px;">
-    <img src="assets/wolf.gif" width="300" alt="wolf gif"/>
+    <img src="assets/wolf.gif" width="250" alt="wolf gif"/>
   </td>
   <td valign="top" style="padding-left: 10px;">
     <img src="assets/batman.gif" width="250" alt="batman gif"/>
