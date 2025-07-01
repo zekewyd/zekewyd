@@ -1,16 +1,30 @@
-## Hi there 👋
+# i'm zeke
 
-<!--
-**zekewyd/zekewyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• i'm literally batman  
+• backend developer  
+• yes my back hurts  
+• my tummy hurts also  
+
+  </td>
+  <td valign="top" width="50%">
+
+<img src="assets/wolf.gif" width="100%" alt="wolf"/><br><br>
+<img src="assets/batman.gif" width="100%" alt="batman"/><br><br>
+
+<a href="https://open.spotify.com/user/zyyrfd6t6ra1813e8phnxppgz" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+</a>
+
+<a href="https://letterboxd.com/zekewyd/" target="_blank">
+  <img src="https://img.shields.io/badge/Letterboxd-181818?style=for-the-badge&logo=letterboxd&logoColor=00e054" alt="Letterboxd"/>
+</a>
+
+  </td>
+  </tr>
+</table>
