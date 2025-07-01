@@ -1,8 +1,8 @@
-# i'm zeke
+<h1 align="center">i'm zeke</h1>
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
 
 • i'm literally batman  
 • backend developer  
@@ -20,8 +20,8 @@
   </td>
   <td valign="top" width="50%">
 
-<img src="wolf.gif" width="100%" alt="gif1"/><br><br>
-<img src="batman.gif" width="100%" alt="gif2"/><br><br>
+<img src="assets/wolf.gif" width="100%" alt="gif1"/><br><br>
+<img src="assets/batman.gif" width="100%" alt="gif2"/><br><br>
 
 
   </td>
