@@ -18,8 +18,8 @@
 </a>
 
 </td>
-    <td valign="top" width="50%">
-      <img src="assets/batman.gif" width="280" alt="batman gif"/><br><br>
+    <td valign="top" width="100%">
+      <img src="assets/wolf.gif" width="280" alt="wolf gif"/><br><br>
 </td>
   </tr>
 </table>
