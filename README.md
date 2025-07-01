@@ -2,7 +2,6 @@
 
 <table align="center">
   <tr>
-    <!-- Text -->
     <td valign="top" style="padding-right: 20px;">
       • i'm literally batman<br>
       • backend developer<br>
@@ -17,13 +16,9 @@
     <img src="assets/letterboxd.png" width="32" alt="Letterboxd"/>
   </a>
     </td>
-
-    <!-- Wolf GIF -->
   <td valign="top" style="padding: 0 10px;">
-    <img src="assets/wolf.gif" width="250" alt="wolf gif"/>
+    <img src="assets/wolf.gif" width="300" alt="wolf gif"/>
   </td>
-
-    <!-- Batman GIF -->
   <td valign="top" style="padding-left: 10px;">
     <img src="assets/batman.gif" width="250" alt="batman gif"/>
   </td>
