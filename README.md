@@ -3,6 +3,7 @@
 <table>
   <tr>
 
+    <!-- Left Column -->
     <td valign="top" width="50%">
 
 • i'm literally batman  
@@ -12,7 +13,8 @@
 
     </td>
 
-
+    <!-- Right Column -->
+    <td valign="top" width="50%">
 
 <img src="assets/wolf.gif" width="200" alt="wolf gif"/><br><br>
 <img src="assets/batman.gif" width="200" alt="batman gif"/><br><br>
@@ -22,7 +24,7 @@
 </a>
 
 <a href="https://letterboxd.com/zekewyd/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/8E8E93/movie-projector.png" width="32" alt="Letterboxd"/>
+  <img src="assets/letterboxd.png" width="32" alt="Letterboxd"/>
 </a>
 
     </td>
