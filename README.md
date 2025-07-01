@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="100%">
+    <td valign="top" width="50%">
 
 • i'm literally batman  
 • backend developer  
@@ -14,16 +14,15 @@
 </a>
 
 <a href="https://letterboxd.com/zekewyd/" target="_blank">
-  <img src="assets/letterboxd.png" width="32" alt="Letterboxd"/>
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/letterboxd.png" width="32" alt="Letterboxd"/>
 </a>
 
-  </td>
-  <td valign="top" width="100%">
+    </td>
+    <td valign="top" width="50%">
 
-<img src="assets/wolf.gif" width="100%" alt="gif1"/><br><br>
-<img src="assets/batman.gif" width="100%" alt="gif2"/><br><br>
+<img src="https://media.tenor.com/lhQs82AlCTkAAAAC/d9luxe-wolf.gif" width="100%" alt="gif1"/><br><br>
+<img src="https://media.tenor.com/p_dkFf5vr3sAAAAC/batman-lonely.gif" width="100%" alt="gif2"/><br><br>
 
-
-  </td>
+    </td>
   </tr>
 </table>
